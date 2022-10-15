@@ -9,6 +9,6 @@ The goal of this project was to predict finger flexion motions of individual fin
 <img src="https://user-images.githubusercontent.com/46754269/196006808-250b36dd-3441-4c53-8d7a-7fb18d391e93.png" width="400" height="500"> 
 
 ## Reference
-> Decoding Flexion of Individual Fingers using Electrocorticographic Signals in Humans by Kubanek et al. (2009).
-> Decoding Visual Information From a Population of Retinal Ganglion Cells by Warland et al. (1997).
-> Decoding Finger Flexion from Band-Specific ECoG Signals in Humans by Nanying Liang and Laurent Bougrain (2012).
+> 1. Decoding Flexion of Individual Fingers using Electrocorticographic Signals in Humans by Kubanek et al. (2009).
+> 2. Decoding Visual Information From a Population of Retinal Ganglion Cells by Warland et al. (1997).
+> 3. Decoding Finger Flexion from Band-Specific ECoG Signals in Humans by Nanying Liang and Laurent Bougrain (2012).
